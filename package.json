@@ -1,0 +1,19 @@
+{
+  "name": "com.mangal.OrientationUtility",
+  "version": "1.0.0",
+  "displayName": "WebGL Orientation Utility",
+  "description": "WebGL Orientation Utility unity package",
+  "unity": "2021.3",
+  "unityRelease": "0b1",
+  "documentationUrl": "https://google.com/",
+  "changelogUrl": "https://google.com/",
+  "licensesUrl": "https://google.com/",
+ "keywords": [
+    "Unity WebGL Orientation",
+  ],
+  "author": {
+    "name": "Mangal(Mathew)",
+    "email": "mathew@aistechnolabs.org",
+    "url": "https://www.aistechnolabs.com/"
+  }
+}
